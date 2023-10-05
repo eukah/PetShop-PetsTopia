@@ -1,0 +1,25 @@
+
+.cabecalho {
+    background: rgb(237,221,249);
+    background: linear-gradient(236deg, rgba(237,221,249,1) 17%, rgba(220,249,243,1) 44%, rgba(250,231,214,1) 60%, rgba(249,214,222,1) 100%);
+    border-radius: 0 0 10px 10px;
+    box-shadow: var(--sombra);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4.75rem;
+    margin-bottom: 2rem;
+}
+
+.cabecalho__logo {
+    width: 70px;
+    height: 70px;
+}
+
+.cabecalho__lista-navegacao {
+    display: flex;
+}
+
+.cabecalho__link {
+    margin-left: 2rem;
+}
