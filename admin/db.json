@@ -1,4 +1,17 @@
 {
-  "profile": [],
-  "product": []
+  "profile": [
+    {
+      "nome": "Joao",
+      "email": "smurfdoaspas",
+      "id": 2
+    }
+  ],
+  "product": [
+    {
+      "produto": "Crack",
+      "preco": "1 real",
+      "descricao": "Muito forte",
+      "id": 1
+    }
+  ]
 }
